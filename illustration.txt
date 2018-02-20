@@ -1,0 +1,1 @@
+this index.php is developed for power the website homepage,but is it encyopted.
